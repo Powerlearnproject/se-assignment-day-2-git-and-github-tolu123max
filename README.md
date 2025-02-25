@@ -140,6 +140,16 @@ Why Are Commits Important?
 ✅ Code Documentation: Each commit message describes what was modified, making it easier to understand the project's evolution.
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
+A pull request (PR) is a feature in GitHub that allows developers to propose changes to a repository. It serves as a request for code to be reviewed and merged into a target branch (e.g., main or develop). PRs enable structured collaboration, ensuring quality control before integrating changes into the main codebase.
+
+How Pull Requests Facilitate Code Review and Collaboration
+Structured Code Review – PRs allow team members to review changes before merging, ensuring code quality and adherence to best practices.
+Discussion & Feedback – Developers can leave comments, suggest improvements, and request changes within the PR.
+Version Control & History Tracking – PRs document changes and discussions, providing a record for future reference.
+Continuous Integration (CI) & Automated Testing – Many projects use PRs to trigger automated tests, ensuring that changes do not break existing functionality.
+Collaboration Across Teams – Multiple developers can contribute, review, and refine code before it becomes part of the project.
+
+
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
